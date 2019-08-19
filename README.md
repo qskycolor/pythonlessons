@@ -1,2 +1,2 @@
 # pythonlessons
-learning python programming language
+Learning python programming language

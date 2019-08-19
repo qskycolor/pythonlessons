@@ -86,7 +86,7 @@ async      elif       if         or         yield
 
 Windows里可以双击IDLE的快捷方式来打开IDLE界面。
 
-macOS直接在终端输入：idle 即可打开IDLE界面。
+macOS直接在终端输入：idle 即可打开IDLE（Integrated Develop Environment)界面。
 
 现在，输入上面输出'hello world！'的代码，可以看到输出内容。
 
@@ -113,7 +113,7 @@ for,while: 这两个表示循环。只要不打断就一直做一件事情，这
 break,continue: 这两个关键字是打断和继续的意思，一般if结合着用来控制循环。
 
 好了，今天先介绍这些关键字，如果不结合着具体的代码，光介绍关键字是很空洞的。
-后面我们会在具体的代码中陆续的使用这些关键字。
+后面我们会在具体的代码中陆续的使用这些关键字，这就需要下一节课需要讲的一个概念：变量。
 
 最后，插播一下Python语言的发展历史。
 
